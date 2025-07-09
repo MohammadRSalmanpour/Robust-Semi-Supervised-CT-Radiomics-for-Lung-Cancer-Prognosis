@@ -13,11 +13,11 @@ The study proposes a semi-supervised learning (SSL) framework to predict lung ca
 - Demonstrating SSL's robustness via SHAP interpretability and external validation  
 
 ## 📂 Repository Structure  
-├── Classification_Code/ # Python scripts for supervised (SL) and semi-supervised (SSL) learning
-├── SHAP_Analysis/ # Code for SHAP-based feature importance analysis
-├── Supplemental_File_1.xlsx # Detailed SL results (metrics, hyperparameters, selected features)
-├── Supplemental_File_2.xlsx # Detailed SSL results (metrics, hyperparameters, selected features)
-├── README.md # This file
+├── Classification_Code/          # Python scripts for supervised (SL) and semi-supervised (SSL) learning  
+├── SHAP_Analysis/                # Code for SHAP-based feature importance analysis  
+├── Supplemental_File_1.xlsx      # Detailed SL results (metrics, hyperparameters, selected features)  
+├── Supplemental_File_2.xlsx      # Detailed SSL results (metrics, hyperparameters, selected features)  
+├── README.md                     # This file  
  
 
 ## 📊 Key Results  
